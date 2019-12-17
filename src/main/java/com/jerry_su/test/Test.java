@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("ca bu taihao ");
 		System.out.println("sssssssssssssssssssssssssssssss");
 		System.out.println("ssssss");
+		System.out.println("this is idea input");
 	}
 }
