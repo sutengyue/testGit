@@ -9,5 +9,6 @@ public class Test {
 		System.out.println("ssssss");
 		System.out.println("this is idea input");
         System.out.println("sdfsdfsd");
+        System.out.println("slave idea branch");
 	}
 }
