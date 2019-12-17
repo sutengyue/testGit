@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("left");
 		System.out.println("right");
 		System.out.println("ca bu taihao ");
+		System.out.println("ssssss");
 	}
 }
